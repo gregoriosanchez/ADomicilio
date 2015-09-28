@@ -1,2 +1,2 @@
 # ADomicilio
-Proyecto de practica para para aprender a utilizar ASP.Net MVC
+Proyecto de practica para aprender a utilizar ASP.Net MVC
